@@ -78,11 +78,11 @@ The app module is configured with:
 - Review `LoginScreen.kt` and `RegisterScreen.kt` for the current form behavior.
 - A UI login or registration form does not automatically provide secure account management. For real authentication, connect the app to a backend and store passwords securely on the server; do not store plain-text passwords in the app.
 
+## 👨‍💻 Author
 
-👨‍💻 Author
-Name: Anubhav Kanthariya
-Enrollment Number: 24012021094
-Subject: Mobile Application Development
-Practical Number: 8
+- **Name:** Anubhav Kanthariya
+- **Enrollment Number:** 24012021094
+- **Subject:** Mobile Application Development
+- **Practical Number:** 5
 
 
